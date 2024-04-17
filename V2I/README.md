@@ -4,9 +4,6 @@ The V2I (Vehicle-to-Infrastructure) sub-system facilitates communication between
 ## Overview
 The V2I sub-system is crucial in enhancing road safety and traffic efficiency by providing real-time updates on traffic light status to the master vehicle. By integrating with the RSU, the sub-system enables the master vehicle to receive continuous traffic light information, allowing it to make informed decisions while navigating through intersections.
 
-![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/f6a5dfa2-3afe-44ac-b8d3-93e111a1a185)
-
-
 ## Features
 - RSU Integration: Establish communication with the Roadside Unit (RSU) to receive traffic light status updates.
 - Real-time Updates: Delivers continuous traffic light status to the master vehicle, ensuring timely and accurate information.
