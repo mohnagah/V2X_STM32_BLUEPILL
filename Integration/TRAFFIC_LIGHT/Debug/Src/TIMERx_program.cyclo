@@ -1,0 +1,14 @@
+TIMERx_program.c:8:6:MTIMERx_voidInit	1
+TIMERx_program.c:38:6:MTIMERx_voidUpdatePSC	1
+TIMERx_program.c:46:6:MTIMERx_voidPWMSetup	5
+TIMERx_program.c:91:6:MTIMERx_voidSetPWMDuty	5
+TIMERx_program.c:105:6:MTIMERx_voidStopTimer	5
+TIMERx_program.c:118:6:MTIMERx_voidStartTimer	5
+TIMERx_program.c:130:6:MTIMERx_voidInputCaptureSetup	5
+TIMERx_program.c:182:6:MTIMERx_voidGetInputCaptureCounter	5
+TIMERx_program.c:197:6:MTIMERx_voidSetInputCaptureTrigger	5
+TIMERx_program.c:223:18:MTIMERx_GetTimerID	5
+TIMERx_program.c:240:6:MTIMERx_voidInputCaptureCallback	4
+TIMERx_program.c:250:6:MTIMERx_voidSetOVFCallback	3
+TIMERx_program.c:265:6:TIM2_IRQHandler	10
+TIMERx_program.c:324:6:TIM3_IRQHandler	10

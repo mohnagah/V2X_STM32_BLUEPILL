@@ -1,0 +1,4 @@
+RCC_program.c:8:6:MRCC_voidInitSysClock	2
+RCC_program.c:60:6:MRCC_voidEnableClock	6
+RCC_program.c:85:6:MRCC_voidDisableClock	6
+RCC_program.c:110:6:MRCC_u32GetClockFrequency	6

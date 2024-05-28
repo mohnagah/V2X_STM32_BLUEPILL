@@ -1,0 +1,3 @@
+../Src/AFIO_program.c:7:6:AFIO_voidRemap	16	static
+../Src/AFIO_program.c:53:6:AFIO_voidSetSourceEXTI	16	static
+../Src/AFIO_program.c:126:6:AFIO_voidEnableEventOutput	16	static

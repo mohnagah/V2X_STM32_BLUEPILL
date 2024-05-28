@@ -1,0 +1,13 @@
+../Src/TIMERx_program.c:8:6:MTIMERx_voidInit	4	static
+../Src/TIMERx_program.c:37:6:MTIMERx_voidUpdatePSC	32	static
+../Src/TIMERx_program.c:45:6:MTIMERx_voidPWMSetup	24	static
+../Src/TIMERx_program.c:90:6:MTIMERx_voidSetPWMDuty	24	static
+../Src/TIMERx_program.c:104:6:MTIMERx_voidStopTimer	16	static
+../Src/TIMERx_program.c:117:6:MTIMERx_voidStartTimer	16	static
+../Src/TIMERx_program.c:129:6:MTIMERx_voidInputCaptureSetup	24	static
+../Src/TIMERx_program.c:177:6:MTIMERx_voidGetInputCaptureCounter	24	static
+../Src/TIMERx_program.c:192:6:MTIMERx_voidSetInputCaptureTrigger	24	static
+../Src/TIMERx_program.c:218:18:MTIMERx_GetTimerID	24	static
+../Src/TIMERx_program.c:235:6:MTIMERx_voidInputCaptureCallback	16	static
+../Src/TIMERx_program.c:245:6:MTIMERx_voidSetOVFCallback	24	static
+../Src/TIMERx_program.c:260:6:TIM2_IRQHandler	8	static

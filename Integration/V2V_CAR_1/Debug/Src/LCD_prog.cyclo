@@ -1,0 +1,12 @@
+LCD_prog.c:39:6:HLCD_voidInit	2
+LCD_prog.c:146:6:HLCD_voidSendData	3
+LCD_prog.c:236:6:HLCD_voidDispStr	2
+LCD_prog.c:250:6:HLCD_voidDispIntNum	3
+LCD_prog.c:274:6:HLCD_voidDispFloatNum	2
+LCD_prog.c:292:6:Lcd_SetCursorPosition	1
+LCD_prog.c:298:6:Lcd_DisplayNumber	4
+LCD_prog.c:319:6:HLCD_voidMovCursor	7
+LCD_prog.c:352:6:HLCD_voidClrScreen	1
+LCD_prog.c:358:6:HLCD_voidShiftDisplayRight	1
+LCD_prog.c:364:6:HLCD_voidShiftDisplayLeft	1
+LCD_prog.c:370:6:HLCD_voidDispSpecialChar	2

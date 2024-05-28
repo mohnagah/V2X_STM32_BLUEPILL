@@ -1,0 +1,5 @@
+../Src/SSD_program.c:11:6:SSD_voidInit	8	static
+../Src/SSD_program.c:43:6:SSD_voidSendNumber	16	static
+../Src/SSD_program.c:97:6:SSD_voidEnable	16	static
+../Src/SSD_program.c:109:6:SSD_voidDisable	16	static
+../Src/SSD_program.c:121:6:SSD_voidPovSendNumber	24	static

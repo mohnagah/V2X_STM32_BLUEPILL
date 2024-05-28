@@ -1,0 +1,10 @@
+../Src/LCD_prog.c:39:6:HLCD_voidInit	16	static
+../Src/LCD_prog.c:146:6:HLCD_voidSendData	24	static
+../Src/LCD_prog.c:236:6:HLCD_voidDispStr	24	static
+../Src/LCD_prog.c:250:6:HLCD_voidDispIntNum	32	static
+../Src/LCD_prog.c:273:6:HLCD_voidDispFloatNum	32	static
+../Src/LCD_prog.c:292:6:HLCD_voidMovCursor	24	static
+../Src/LCD_prog.c:325:6:HLCD_voidClrScreen	8	static
+../Src/LCD_prog.c:331:6:HLCD_voidShiftDisplayRight	8	static
+../Src/LCD_prog.c:337:6:HLCD_voidShiftDisplayLeft	8	static
+../Src/LCD_prog.c:343:6:HLCD_voidDispSpecialChar	24	static

@@ -1,0 +1,8 @@
+SYSTICK_program.c:20:6:MSTK_voidInit	1
+SYSTICK_program.c:42:6:MSTK_voidSetBusyWait	2
+SYSTICK_program.c:65:6:MSTK_voidSetIntervalSingle	1
+SYSTICK_program.c:85:6:MSTK_voidSetIntervalPeriodic	1
+SYSTICK_program.c:107:6:MSTK_voidStopInterval	1
+SYSTICK_program.c:117:5:MSTK_u32GetElapsedTime	1
+SYSTICK_program.c:128:5:MSTK_u32GetRemainingTime	1
+SYSTICK_program.c:133:6:Systick_Handler	2

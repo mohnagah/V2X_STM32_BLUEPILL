@@ -1,0 +1,16 @@
+../Src/USART_PROG.c:13:6:MUSART_VidInit	16	static
+../Src/USART_PROG.c:122:6:MUSART3_VidInit	16	static
+../Src/USART_PROG.c:233:6:MUSART1_VidSendCharSync	16	static
+../Src/USART_PROG.c:243:6:MUSART3_VidSendCharSync	16	static
+../Src/USART_PROG.c:256:6:MUSART1_voidTransmit	16	static
+../Src/USART_PROG.c:263:6:MUSART3_voidTransmit	16	static
+../Src/USART_PROG.c:272:6:MUSART1_VidSendStringSynch	24	static
+../Src/USART_PROG.c:286:6:MUSART3_VidSendStringSynch	24	static
+../Src/USART_PROG.c:301:4:MUSART1_u8RecCharSynch	16	static
+../Src/USART_PROG.c:327:4:MUSART3_u8RecCharSynch	16	static
+../Src/USART_PROG.c:359:6:MUSART1_PtrReadStringSynch	16	static
+../Src/USART_PROG.c:378:6:MUSART3_PtrReadStringSynch	16	static
+../Src/USART_PROG.c:398:6:MUSART1_VidSetCallBack	16	static
+../Src/USART_PROG.c:405:6:MUSART3_VidSetCallBack	16	static
+../Src/USART_PROG.c:414:6:USART1_IRQHandler	8	static
+../Src/USART_PROG.c:421:6:USART2_IRQHandler	8	static

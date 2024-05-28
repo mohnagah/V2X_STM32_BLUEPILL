@@ -1,0 +1,8 @@
+ULTRASONIC_program.c:42:6:HUS_voidInit	2
+ULTRASONIC_program.c:85:6:HUS_voidGetDistance	2
+ULTRASONIC_program.c:111:6:HUS_voidGetAvgDistance	2
+ULTRASONIC_program.c:125:13:HUS_voidOVFCounts	1
+ULTRASONIC_program.c:130:13:HUS_void_FRONT_ECHO_Interrupt	3
+ULTRASONIC_program.c:161:13:HUS_void_F_SIDE_ECHO_Interrupt	3
+ULTRASONIC_program.c:192:13:HUS_void_B_SIDE_ECHO_Interrupt	3
+ULTRASONIC_program.c:223:13:HUS_void_BACK_ECHO_Interrupt	3
