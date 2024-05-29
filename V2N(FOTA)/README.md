@@ -1,7 +1,7 @@
 
 # V2N (Firmware Over-The-Air) Sub-system
 
-The V2N (Firmware Over-The-Air) sub-system facilitates the remote updating of firmware for the target STM32F103 BLUE PILL microcontroller. This sub-system consists of a web server for uploading .hex applications and a NodeMCU for downloading the .hex file from the server and flashing it onto the target device's Flash memory.
+The V2N (Firmware Over-The-Air) sub-system facilitates the secure remote updating of firmware for the target STM32F103 BLUE PILL microcontroller. This sub-system consists of a web server for uploading .hex applications, a NodeMCU for downloading the .hex file from the server, and a secure transmission mechanism using XOR symmetric encryption.
 
 ## Overview
 
@@ -12,6 +12,7 @@ The V2N sub-system enables seamless firmware updates for the target microcontrol
 
 - **Web Server Integration:** Utilizes a web server for uploading .hex applications and providing access to firmware updates.
 - **NodeMCU Communication:** Facilitates communication between the web server and the target device, handling the download and flashing process.
+- **Secure Transmission:** Uses XOR symmetric encryption to encrypt data at the server side and decrypt data at the NodeMCU side.
 - **Remote Firmware Updates:** Enables remote updating of firmware over-the-air, eliminating the need for physical connections or manual intervention.
 - **Bootloader Integration:** Integrates with the STM Bootloader to manage the flashing process and execute the updated firmware.
 
