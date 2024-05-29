@@ -54,5 +54,4 @@ To run the integrated V2X system, follow these steps:
    - Run the simulation in Proteus to observe the integrated system in action.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GPL-3.0 License.
